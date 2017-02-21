@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-okt-2015, 21:08:37
+    Author     : berki
+*/
+
+#ok{
+    background-color: pink;
+    padding:0.5em;
+}
+
+#ok:hover{
+    cursor: pointer; cursor: hand;
+}
